@@ -1,0 +1,1281 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": false,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "05aa0897-d6b1-4b54-b48e-63a2a480db49",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Skinny Rabbits",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/6ee397e98a763384db7209f6bfe0a943e6d61c5a080f939efea80fafb831c1ee-Run (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (1).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/6ee397e98a763384db7209f6bfe0a943e6d61c5a080f939efea80fafb831c1ee-Run (1).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/362bf361f1bfd1218cfd6e613374822e0fbab1e44b895a45aafa6aa8435222c4-Run (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (2).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/362bf361f1bfd1218cfd6e613374822e0fbab1e44b895a45aafa6aa8435222c4-Run (2).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/f796fa6ec0019e0d299141a42aef9d009aa7dbf901e2b0dc3dc65d316e52fe74-Run (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (3).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/f796fa6ec0019e0d299141a42aef9d009aa7dbf901e2b0dc3dc65d316e52fe74-Run (3).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/1d7bf55b82d8c36bcb4ce9189ac740a915b40b59e78caa161c8f3b2517245c53-Run (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (4).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/1d7bf55b82d8c36bcb4ce9189ac740a915b40b59e78caa161c8f3b2517245c53-Run (4).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/669f8186b42adf0135b027b005412fc322b639ab73e1c926b2baf50ee59ff4a3-Run (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (5).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/669f8186b42adf0135b027b005412fc322b639ab73e1c926b2baf50ee59ff4a3-Run (5).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/909d32d3290c2e55dbfbc3e294740005b751b3edfd7f8ccbb69ead4f9cdb9dbf-Run (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (6).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/909d32d3290c2e55dbfbc3e294740005b751b3edfd7f8ccbb69ead4f9cdb9dbf-Run (6).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/e463d73af300e1f0f1c38a5e9f49636ead8ff78cd9c45b4dd611d07fb6079ec0-Run (7).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (7).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/e463d73af300e1f0f1c38a5e9f49636ead8ff78cd9c45b4dd611d07fb6079ec0-Run (7).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/4b2e10ad7b03dca92a966f1a39a0d3515ba9570944ce8b54e7583b5219f96775-Run (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run (8).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/4b2e10ad7b03dca92a966f1a39a0d3515ba9570944ce8b54e7583b5219f96775-Run (8).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a1b808c9256cfb62d56a00e0a9a1c53211c0c7a3355a08136d6a6ad67a81b76f-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a1b808c9256cfb62d56a00e0a9a1c53211c0c7a3355a08136d6a6ad67a81b76f-1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/3386b42a67c941e25f1a9ddfbfb695395eb203168f99f51e9b2e271c68a10ced-32_flagstone_tiles.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "32_flagstone_tiles.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/3386b42a67c941e25f1a9ddfbfb695395eb203168f99f51e9b2e271c68a10ced-32_flagstone_tiles.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/436d163e02723eed724d1c6b8ff28a9df399e270d186d622f166762d59e2b337-flagstone2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "flagstone2.jpg",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/436d163e02723eed724d1c6b8ff28a9df399e270d186d622f166762d59e2b337-flagstone2.jpg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/8e66502f953668c409828cb3da1ac27c87569c0ce776ffac213a10247187a795-Jump (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (1).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/8e66502f953668c409828cb3da1ac27c87569c0ce776ffac213a10247187a795-Jump (1).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/95061aceac3bde19194d4b32ecf0a3e2d47bbb05e89965233d2333e5978bee32-Jump (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (2).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/95061aceac3bde19194d4b32ecf0a3e2d47bbb05e89965233d2333e5978bee32-Jump (2).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/4d40620547b9b89608300f47ff80b45303a7a7c581ccf667195149a7df928509-Jump (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (3).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/4d40620547b9b89608300f47ff80b45303a7a7c581ccf667195149a7df928509-Jump (3).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a6c51c19f9cf6774a9d470b6ceae8266b08e9edc9dc44eb1daf3500d7334650c-Jump (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (4).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a6c51c19f9cf6774a9d470b6ceae8266b08e9edc9dc44eb1daf3500d7334650c-Jump (4).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a8722bd0231439360246e8633a2396b6e61bd29f7850b371a41d101b1720c20d-Jump (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (5).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/a8722bd0231439360246e8633a2396b6e61bd29f7850b371a41d101b1720c20d-Jump (5).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/42c32c5d003e8961c91e8456fca13cbbd720c2a5ce034693d3e4c20caa771091-Jump (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (6).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/42c32c5d003e8961c91e8456fca13cbbd720c2a5ce034693d3e4c20caa771091-Jump (6).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/d5c497f107edd017bbfd2657503b05d1848bfc4bab45cb3d54a43c76ff35b5ee-Jump (7).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (7).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/d5c497f107edd017bbfd2657503b05d1848bfc4bab45cb3d54a43c76ff35b5ee-Jump (7).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/3963a521e00b447e97937c0ca1ded3ecfddf78b7c5003c513fae1c08b2a92fed-Jump (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (8).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/3963a521e00b447e97937c0ca1ded3ecfddf78b7c5003c513fae1c08b2a92fed-Jump (8).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/2b5616d1c378d0d53f842466cb37525c331c73be100a5bf8c86f3b94fe5a3b40-Jump (9).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (9).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/2b5616d1c378d0d53f842466cb37525c331c73be100a5bf8c86f3b94fe5a3b40-Jump (9).png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/83aa97da9135e228b65be40b52b8ce2b4d0904354619d2f10b252880067a8d75-Jump (10).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jump (10).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/d84e67c6-769a-4b1a-8a81-61487d5cb6dc/resources/83aa97da9135e228b65be40b52b8ce2b4d0904354619d2f10b252880067a8d75-Jump (10).png",
+          "name": "cloud-project-resource"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "girl",
+          "persistentUuid": "9fbd118b-a48c-4ecb-be6c-36ac970637ac",
+          "width": 0,
+          "x": 449,
+          "y": 321,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "82eaeeb5-8238-4a2f-895a-6e671d24f823",
+          "width": 1279,
+          "x": 2,
+          "y": 467,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "girl",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (3).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (4).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (5).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (6).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (7).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Run (8).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (3).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (4).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (5).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (6).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (7).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (8).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (9).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jump (10).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 55,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 12
+                          },
+                          {
+                            "x": 148,
+                            "y": 149
+                          },
+                          {
+                            "x": 55,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite2",
+          "texture": "flagstone2.jpg",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "girl"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "NewTiledSprite2"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "girl",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "girl",
+                "Animation",
+                "+",
+                "\"jump\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
